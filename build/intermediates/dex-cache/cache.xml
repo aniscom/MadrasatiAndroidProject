@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dbfc1731b30272ac04cbcc642c58d445a818995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_09743fd2cc853c62fd9b6a58ac455b1493794db0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34b548e379dab5f62d8d46e1d6699a67bb90865f">
+        <dex dex="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56396faee1e9936771e0e8b1262772dbd65eb6b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0737b654fb326a7563c8fe305544965db13d837">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_272cdd2fdbb8b2367a933b1777c156e46bec2772\classes.dex" />
+    </item>
+
+</items>
