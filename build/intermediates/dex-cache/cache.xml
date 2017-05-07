@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_09743fd2cc853c62fd9b6a58ac455b1493794db0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -29,13 +20,22 @@
         <dex dex="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56396faee1e9936771e0e8b1262772dbd65eb6b3\classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d0737b654fb326a7563c8fe305544965db13d837">
-        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_272cdd2fdbb8b2367a933b1777c156e46bec2772\classes.dex" />
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\glide-3.7.0_a4459a40428ac9ccc4db0c44d4918a0dc3907602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.android\build-cache\ff4e9d7d32d29e695dfff9512f226562318a49d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\classes_f6bddb2852a6ba1ba25262d9d507fca766b90038.jar" />
     </item>
 
 </items>

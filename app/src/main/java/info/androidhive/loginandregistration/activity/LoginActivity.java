@@ -144,9 +144,9 @@ public class LoginActivity extends Activity {
                         // Inserting row in users table
                         db.addUser(name, email, uid, created_at);
 
-                        // Launch main activity
+                        // Launch main/List activity
                         Intent intent = new Intent(LoginActivity.this,
-                                MainActivity.class);
+                                ListActivity.class);
                         startActivity(intent);
                         finish();
                     } else {
