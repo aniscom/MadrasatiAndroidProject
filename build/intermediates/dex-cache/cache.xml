@@ -2,6 +2,33 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0_8b8503441a827e2aa2adc128825234998f7c28fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_3fe15f85c43b5a80a37ebc1cfbca3c360d0b0c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE_f345015412746c8db7492abcab8bca69fca00d5f.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Anis\Downloads\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\MadrasatiAndoidProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -21,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2_f00c26650cf2bb181f877663132b6b8068dd4a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
         jumboMode="false"
         optimize="true"
@@ -36,6 +72,33 @@
         revision="25.0.0"
         sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
         <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\classes_f6bddb2852a6ba1ba25262d9d507fca766b90038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\gson-2.8.0_483ab46737da7adec38d0d18601040b32363097c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2_b1383d0801de74c2c31bfaf5fb2ea522e52d3352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anis\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\Anis\Desktop\MadrasatiAndroidProject\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE_600352e697bc16cc11ddab3032c313ef192c2bf4.jar" />
     </item>
 
 </items>

@@ -1,27 +1,38 @@
 package info.androidhive.loginandregistration.model;
 
+import java.io.Serializable;
+
 /**
  * Created by Anis on 07/05/2017.
  */
 
-public class Entity {
-    String title,image,info;
-
-    public Entity(String title, String image, String info) {
-        this.title = title;
-        this.image = image;
-        this.info = info;
-    }
+public class Entity implements Serializable{
+    String nom_ecole,image,info;
 
     public Entity() {
     }
 
-    public String getTitle() {
-        return title;
+    public Entity(String nom_ecole, String image, String info) {
+        this.nom_ecole = nom_ecole;
+        this.image = image;
+        this.info = info;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    @Override
+    public String toString() {
+        return "Entity{" +
+                "nom_ecole='" + nom_ecole + '\'' +
+                ", image='" + image + '\'' +
+                ", info='" + info + '\'' +
+                '}';
+    }
+
+    public String getNom_ecole() {
+        return nom_ecole;
+    }
+
+    public void setNom_ecole(String nom_ecole) {
+        this.nom_ecole = nom_ecole;
     }
 
     public String getImage() {
@@ -38,14 +49,5 @@ public class Entity {
 
     public void setInfo(String info) {
         this.info = info;
-    }
-
-    @Override
-    public String toString() {
-        return "Entity{" +
-                "title='" + title + '\'' +
-                ", image='" + image + '\'' +
-                ", info='" + info + '\'' +
-                '}';
     }
 }
