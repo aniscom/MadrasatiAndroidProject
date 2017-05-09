@@ -22,7 +22,7 @@
             android:layout_alignParentLeft="true"
             android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_launcher" />
+            android:src="@drawable/ic_school" />
 
         <TextView
             android:id="@+id/list_title"
